@@ -29,7 +29,7 @@ Two years ago I started a trip in new sphere. My path:&#128071;
 
 + :school_satchel: Прочитано много книг и статей без сертификатов :smiley:
 
-
+<h3 align='left'>Мои достижения:</h3>
 
 :trophy: Первое место в хакатоне Glowbyte. Задача предсказания энергопотребления.  [Certificate](https://github.com/sidordima/Self/blob/main/Cert_Sidorov_Glowbyte.pdf)  [repo](https://github.com/Hackaton-glowbyte-team/first-competition)
 
@@ -37,4 +37,6 @@ Two years ago I started a trip in new sphere. My path:&#128071;
 
 ------
 
+<h2 align='center'> It is chart about me: / Диаграмма обо мне: </h2>
 
+![alt text](https://github.com/sidordima/sidordima/blob/main/Skills.png)
