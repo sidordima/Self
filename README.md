@@ -3,7 +3,7 @@
 
 Two years ago I started a trip in new sphere. My path:&#128071;
 
-+ :orange_book: Yandex.Practicum 8 month  [.pdf](https://github.com/sidordima/Self/blob/main/Cert_Sidorov_YA.Practicum(eng).pdf)
++ :orange_book: Yandex.Practicum at 8 months  [.pdf](https://github.com/sidordima/Self/blob/main/Cert_Sidorov_YA.Practicum(eng).pdf)
 
 + :closed_book: Course Samsung DL and CV [.pdf](https://github.com/sidordima/Self/blob/main/Cert_Sidorov_SamsungCV.pdf)
 
