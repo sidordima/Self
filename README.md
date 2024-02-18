@@ -40,3 +40,11 @@ Two years ago I started a trip in new sphere. My path:&#128071;
 <h2 align='center'> It is chart about me: / Диаграмма обо мне: </h2>
 
 ![alt text](https://github.com/sidordima/sidordima/blob/main/Skills.png)
+
+<details><summary>A dropdown list for markdown</summary>
+
+   1. First item must be preceeded with an empty line.
+   1. Markdown renders **perfectly**.
+   1. Extra item.
+
+</details>
